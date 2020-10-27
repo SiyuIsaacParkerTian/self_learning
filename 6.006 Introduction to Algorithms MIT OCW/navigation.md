@@ -14,7 +14,9 @@
   </thead>
   <tbody>
     <tr>
+      <div style="text-align:center;vertical-align:middle">
       <td colspan=2>Unit 1: Introduction</td>
+      </div>
     </tr>
     <tr>
       <td>1</td>
@@ -27,14 +29,12 @@
     <tr>
       <td>2</td>
       <td>
-        <ul>
           <li><a href="Lecture Notes/MIT6_006F11_lec02.pdf">
             Models of computation, document distance
           </a></li>
           <li><a href="Lecture Notes/lec02_code">
             Lecture Code
           </a></li>
-        </ul>
       </td>
     </tr>
     <tr>
