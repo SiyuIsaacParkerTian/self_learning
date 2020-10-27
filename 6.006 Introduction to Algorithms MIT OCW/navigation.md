@@ -18,7 +18,11 @@
     </tr>
     <tr>
       <td>1</td>
-      <td>[Algorithmic thinking, peak finding]("Lecture Notes/MIT6_006F11_lec01.pdf)</td>
+      <td>
+        <a href="Lecture Notes/MIT6_006F11_lec01.pdf">
+          Algorithmic thinking, peak finding
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
