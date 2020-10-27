@@ -20,7 +20,31 @@
       <td>1</td>
       <td>
         <a href="Lecture Notes/MIT6_006F11_lec01.pdf">
-          Algorithmic thinking, peak finding
+            Algorithmic thinking, peak finding
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+        <ul>
+          <li><a href="Lecture Notes/MIT6_006F11_lec02.pdf">
+            Models of computation, document distance
+          </a></li>
+          <li><a href="Lecture Notes/lec02_code">
+            Lecture Code
+          </a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=2>Unit 2: Sorting and Trees</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        <a href="Lecture Notes/MIT6_006F11_lec03.pdf">
+            Insertion sort, merge sort
         </a>
       </td>
     </tr>
