@@ -10,11 +10,13 @@
     <tr>
       <th>Lec #</th>
       <th>Topics</th>
+      <th>Problem Sets</th>
+      <th>Solutions</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan=2>Unit 1: Introduction</td>
+      <td colspan=4>Unit 1: Introduction</td>
     </tr>
     <tr>
       <td>1</td>
@@ -22,6 +24,19 @@
         <a href="Lecture Notes/MIT6_006F11_lec01.pdf">
             Algorithmic thinking, peak finding
         </a>
+      </td>
+      <td rowspan=2>
+        <li><a href="Assignments/MIT6_006F11_ps1.pdf">
+            Problem Set 1 (PDF)
+        </a></li>
+        <li><a href="Assignments/ps1">
+            Problem Set 1 Code (folder)
+        </a></li>
+      </td>
+      <td rowspan=2>
+          <li><a href="Assignments/MIT6_006F11_ps1_sol.pdf">
+              Problem Set 1 Solutions (PDF)
+          </a></li>
       </td>
     </tr>
     <tr>
@@ -36,7 +51,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan=2>Unit 2: Sorting and Trees</td>
+      <td colspan=4>Unit 2: Sorting and Trees</td>
     </tr>
     <tr>
       <td>3</td>
@@ -44,6 +59,22 @@
         <a href="Lecture Notes/MIT6_006F11_lec03.pdf">
             Insertion sort, merge sort
         </a>
+      </td>
+      <td rowspan=1>
+          <li><a href="Assignments/MIT6_006F11_ps2.pdf">
+            Problem Set 2 (PDF)
+          </a></li>
+          <li><a href="Assignments/ps2">
+            Problem Set 2 Code (folder)
+          </a></li>
+      </td>
+      <td>
+          <li><a href="Assignments/MIT6_006F11_ps2_sol.pdf">
+            Problem Set 2 Solutions (PDF)
+          </a></li>
+          <li><a href="Assignments/ps2_sol">
+            Problem Set 2 Code Solutions (folder)
+          </a></li>
       </td>
     </tr>
     <tr>
